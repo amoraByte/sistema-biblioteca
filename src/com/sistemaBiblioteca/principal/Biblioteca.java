@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Biblioteca {
 
-    private List<Livro> livros;
+    private final List<Livro> livros;
 
     public Biblioteca() {
         this.livros = new ArrayList<Livro>();
