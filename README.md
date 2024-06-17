@@ -4,5 +4,4 @@
 <li>Cadastrar livros;</li>
 <li>Listar livros.</li>
 <h3>Futuras implementações: </h3>
-<li>Permitir ue o usuário cadastre os livros;</li>
 <li>A possibilidade de excluir livros.</li>
